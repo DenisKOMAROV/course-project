@@ -1,0 +1,14 @@
+1 код k-means ~
+2 прочитать статью
+3 перевести то что нужно в статье в доклад
+4 написать код из статьи
+5 найти данные ~
+6 протестить
+
+[data] float func of data
+
+O~ wiki soft-O, ignores log
+The symbol, pronounced soft-O, is used as a variant of big O notation that ignores logarithmic factors
+
+N+ seems like just natural numbers set
+
